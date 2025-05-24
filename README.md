@@ -70,21 +70,4 @@ The program provides a menu with the following options:
 
     Use the interactive menu to select functionalities
 
-📂 Project Structure
 
-EvolutionaryTree/
-├── src/
-│   ├── Main.java                # Entry point with menu system
-│   ├── Tree.java                # General Tree implementation
-│   ├── TreeNode.java            # Node structure implementation
-│   ├── TreeLoader.java          # Data loading and parsing
-│   ├── TreeAnalyzer.java        # Analysis functionalities
-│   └── TreeTraversal.java       # Traversal implementations
-├── data/
-│   ├── treeoflife_nodes.csv     # Species data
-│   └── treeoflife_links.csv     # Relationship data
-├── output/                      # Generated output files
-│   ├── pre-order.txt            # Pre-order traversal output
-│   └── subtree.txt              # Subtree output
-├── README.md                    # This file
-└── report.pdf                   # Project report
